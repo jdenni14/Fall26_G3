@@ -1,12 +1,12 @@
-# Fall26_G1
-Group 1 for Fall 2026
+# Fall26_G3
+Group 3 for Fall 2026
 # CSCI4221 Project 1: Student Task Tracker
 
 ## Project Information
 
 **Student:** Jordan Dennis
 
-**Group:** Group 1
+**Group:** Group 3
 
 **Group Members:** Tyjah Banks, Jordan Dennis, Gregory Hamilton
 
